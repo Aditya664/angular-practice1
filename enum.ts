@@ -10,8 +10,10 @@ enum DaysOfTheWeek{
     SUN = "Sun"
 }
 
-let day:DaysOfTheWeek = DaysOfTheWeek.MON;
+var day:DaysOfTheWeek = DaysOfTheWeek.MON;
 
 if(day ===  DaysOfTheWeek.MON){
     console.warn("Hey!, Its Monday..");
 }
+
+

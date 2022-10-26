@@ -1,3 +1,4 @@
+//Enum - Enum is collection of constant.
 var DaysOfTheWeek;
 (function (DaysOfTheWeek) {
     DaysOfTheWeek["MON"] = "Mon";
